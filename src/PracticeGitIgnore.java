@@ -8,8 +8,6 @@ public class PracticeGitIgnore {
             String message1 = scanner.nextLine();
             String message2=scanner.nextLine();
             System.out.println(message1+" ".concat(message2));
-
-
             scanner.close();
 
         }
